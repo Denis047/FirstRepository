@@ -7,7 +7,7 @@ public class GitHubRepository {
         return save;
     }
 
-    public void setSave(Save save) {
+     public void setSave(Save save) {
         this.save = save;
     }
 }
